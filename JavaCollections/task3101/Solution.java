@@ -1,4 +1,3 @@
-```java
 public class Solution {
     public static void main(String[] args) throws IOException {
         File path = new File(args[0]);
@@ -31,4 +30,3 @@ public class Solution {
         }
     }
 }
-```
